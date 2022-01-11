@@ -1,0 +1,3 @@
+# Gaussian-Process-Regression-for-Predicting-CO2-Emission-by-Vehicles
+
+In this project we are trying to predict the CO2 emission from vehicle using Gaussian process regression, Bayesian Linear Regression and K Nearest Neighbours Regression. Depending upon the type, fuel, and transmission etc. the CO2 emission will vary. For our course work we took the dataset from the official Canadian Government’s site [2]. In our course work we have compared Gaussian process regression with other two models. From the analysis we have observed that Gaussian Process Regression is best among all three models. For Gaussian Process Regression we got around 99.7% R2 (Co-efficient of determination) regression score.
